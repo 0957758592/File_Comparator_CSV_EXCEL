@@ -1,0 +1,16 @@
+*.idea
+*.iml
+
+/.idea
+/External Libraries
+/target
+/web
+target
+
+/src/test
+/src/main/resources
+/src/main/java/META-INF
+
+*.class
+*.jar
+*.lst
